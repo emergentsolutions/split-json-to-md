@@ -2,9 +2,13 @@
 Splits a json file into a folder of md files. Useful for Astro content collections.
 
 split_json_to_md.py
+
 Version: 1.2
+
 By Ashwin Philips - Emergent Solutions
+
 Date: 2024-06-13
+
 Time: 16:00:00
 
 This script processes a JSON file containing an array of objects and splits each object into separate .md files.
